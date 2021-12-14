@@ -44,5 +44,8 @@ In the meantime, we want everyone who wants to be involved to be involved. There
 - The Public Benefits Studio coworking sessions on Wednesdays at 1pm ET will be used as forums for conversations and co-working time. 
 - Send one of us a message, we can talk about ways to get involved 
 
-Thanks!
+### Running list of open questions
+
+- Are program agencies going to be willing to use products that are owned by TTS? Are they going to trust our products to be reliable for mission-critical functions?
+- How are we going to avoid just being a "pilot factory" hunting around for pilot partners? How are we planning to deeply partner with program agencies from day one?
 
